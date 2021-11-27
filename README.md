@@ -1,6 +1,6 @@
-# Credit-Card-Fraud-Detection
-
-- Examined credit card transactions by European card holders. Created machine learning
+# Credit-Card-Fraud-Detection-Project
+Team Project for UC Berkeley CS 198 
+- Our team examined credit card transactions by European card holders. We created machine learning
 models (logistic regression, random forests, and feed-forward neural network) to classify a given
 transaction as fraudulent or non-fraudulent.
 - Key Concepts
