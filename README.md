@@ -8,4 +8,4 @@ transaction as fraudulent or non-fraudulent.
   - Logistic Regression
   - Random Forests (Decision Trees)
   - Feed-Forward Neural Network
-  - Python
+  - Python and Jupyter Notebook
