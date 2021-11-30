@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection-Project
+# Credit-Card-Fraud-Detection
 Team Project for UC Berkeley CS 198 
 - Our team examined credit card transactions by European card holders. We created machine learning
 models (logistic regression, random forests, and feed-forward neural network) to classify a given
