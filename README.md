@@ -23,5 +23,5 @@ transaction as fraudulent or non-fraudulent.
 * Scikit-learn
 * Keras
 
-## Featured Notebooks
+## Featured Notebook
 * [Credit Card Fraud Detection](https://dpghazi.github.io/projects/credit-card-fraud-detection.html)
