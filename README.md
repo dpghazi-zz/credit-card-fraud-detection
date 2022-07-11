@@ -24,4 +24,4 @@ transaction as fraudulent or non-fraudulent.
 * Keras
 
 ## Featured Notebooks
-* [Credit Card Fraud Detection](https://colab.research.google.com/drive/17PoFGVa1hM-tHIM0fyR-e_I6uCOy5-vP?usp=sharing)
+* [Credit Card Fraud Detection](https://dpghazi.github.io/projects/credit-card-fraud-detection.html)
