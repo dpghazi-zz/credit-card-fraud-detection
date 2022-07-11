@@ -17,13 +17,11 @@ transaction as fraudulent or non-fraudulent.
 * Python
 * Jupyter
 * Pandas
+* Numpy
 * Matplotlib
-* Plotly
+* Seaborn
 * Scikit-learn
+* Keras
 
 ## Featured Notebooks
-* [Buenos Aires Part 1](https://dpghazi.github.io/projects/predicting-buenos-aires-apartment-price-with-size.html)
-* [Buenos Aires Part 2](https://dpghazi.github.io/projects/predicting-buenos-aires-apartment-price-with-location.html)
-* [Buenos Aires Part 3](https://dpghazi.github.io/projects/predicting-buenos-aires-apartment-price-with-neighborhood.html)
-* [Buenos Aires Part 4](https://dpghazi.github.io/projects/predicting-buenos-aires-apartment-price-with-size-location-and-neighborhood.html)
-* [Mexico City](https://dpghazi.github.io/projects/predicting-apartment-prices-in-mexico-city.html)
+* [Credit Card Fraud Detection]([https://dpghazi.github.io/projects/predicting-buenos-aires-apartment-price-with-size.html](https://colab.research.google.com/drive/17PoFGVa1hM-tHIM0fyR-e_I6uCOy5-vP?usp=sharing))
