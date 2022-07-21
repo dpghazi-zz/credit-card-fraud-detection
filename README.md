@@ -1,5 +1,4 @@
 # Credit Card Fraud Detection 
-# [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://dpghazi.github.io/projects/credit-card-fraud-detection.html)
 
 ## Project Description
 Project for UC Berkeley Computer Science 198 
