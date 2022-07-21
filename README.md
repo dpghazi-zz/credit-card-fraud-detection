@@ -13,15 +13,8 @@ transaction as fraudulent or non-fraudulent.
   - Random Forests (Decision Trees)
   - Feed-Forward Neural Network
 
-### Tools & Libraries
-* Python
-* Jupyter
-* Pandas
-* Numpy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Keras
+### Language & Tools
+* Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Keras)
 
 ## Featured Notebook
 * [Credit Card Fraud Detection](https://dpghazi.github.io/projects/credit-card-fraud-detection.html)
