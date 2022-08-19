@@ -9,7 +9,8 @@ transaction as fraudulent or non-fraudulent.
 ### Overview
   - Data Modeling & Analysis
   - Logistic Regression
-  - Random Forests (Decision Trees)
+  - Random Forests 
+  - Decision Trees
   - Feed-Forward Neural Network
 
 ### Language & Tools
